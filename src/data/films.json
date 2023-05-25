@@ -1,0 +1,58 @@
+[
+    {
+      "title": "saw",
+      "price": "20$",
+      "duration": "3 hours",
+      "description": "horror",
+      "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/01/saw-series-lack-of-villains.jpg"
+    },
+    {
+      "title": "inception",
+      "price": "25$",
+      "duration": "2hours 30min",
+      "description": "science fiction",
+      "image": "https://resize.elle.fr/original/var/plain_site/storage/images/loisirs/cinema/news/inception-films-et-series-a-regarder-si-vous-aimez-le-film-avec-leonardo-dicaprio/97088011-1-fre-FR/Inception-5-films-et-series-a-regarder-si-vous-aimez-le-film-avec-Leonardo-DiCaprio.jpg"
+     
+    },
+    {
+      "title": "Seven",
+      "price": "20$",
+      "duration": "3 hours",
+      "description": "psychologique",
+      "image": "https://imgr.cineserie.com/2016/11/282283.jpg?imgeng=/f_jpg/cmpr_0/w_1000/h_1500/m_cropbox&ver=1"
+     
+    },
+    {
+      "title": "castaway",
+      "price": "20$",
+      "duration": "3 hours",
+      "description": "drama",
+      "image": "https://screencraft.org/wp-content/uploads/2018/02/castaway.jpg"
+      
+    },
+    {
+      "title": "forrest gump",
+      "price": "20$",
+      "duration": "3 hours",
+      "description": "drama/romance",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+      
+    },
+    {
+      "title": "Saving Private Ryan",
+      "price": "20$",
+      "duration": "3 hours",
+      "description": "war",
+      "image": "https://musicart.xboxlive.com/7/68a05100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+      
+    },
+    {
+      "title": "Doctor Zhivago",
+      "price": "20$",
+      "duration": "3 hours",
+      "description": "romance",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM3Yzg5NTQtMTlkYS00MzQ1LWIyY2YtYWM0YjkzOWI2OTc3XkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg"
+      
+    }
+]
+

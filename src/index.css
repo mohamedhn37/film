@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: url(./img/bg-film.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.img{
+  height: 200px;
+}
+.nav-link.active{
+  color: #0DCAF0 !important
+}
